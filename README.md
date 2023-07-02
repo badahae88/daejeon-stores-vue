@@ -77,6 +77,6 @@
 - 모달창에 사진도 카카오 업체사진 넣어주기
 - 내 위치에서 거리 계산해서 알려주기
 
-##3️⃣ 진행경과
+## 3️⃣ 진행경과
 ### '23.07.02
 ![daejeon-stores-app(0702)](https://github.com/badahae88/daejeon-stores-vue/assets/137893145/ef9cbb51-e39b-482f-9655-06533c5463ff)
